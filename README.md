@@ -17,9 +17,12 @@ https://www.lojamekanus.com.br/produto/408015/
 
 Manual de montagem em portugues: https://github.com/mekanus/Otto/blob/main/OttoMekanus_ManPtBr.PDF
 
+
 Aplicativo que comanda o Otto. Deve ser instalado no celular que vai comandar o robô: https://github.com/mekanus/Otto/blob/main/OttoMekanus.apk
 
+
 Codigo fonte que será compilado e transferido para o Arduino Nano: https://github.com/mekanus/Otto/blob/main/OttoMekanus.ino
+
 
 Pastas que deverão ser instaladas dentro da pasta "libraries", que usualmente pode ser encontrada no caminho (se você não  alterou sua instalação) "Documents\Arduino\libraries": https://github.com/mekanus/Otto/blob/main/OttoMekanus_Bibliotecas.zip
 
